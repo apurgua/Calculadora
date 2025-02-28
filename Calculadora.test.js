@@ -6,7 +6,7 @@
  */
 
 
-import { sumar } from './calculadora.js';
+import { sumar } from './Calculadora.js';
 
 describe('Pruebas de la función sumar', () => {
 
