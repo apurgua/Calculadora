@@ -51,3 +51,5 @@ Casos de Prueba
     Precisión con decimales.
 
     Manejo de valores no numéricos.
+
+    Se han agregado casos de valores nullos.
